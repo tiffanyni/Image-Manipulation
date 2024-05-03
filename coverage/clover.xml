@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1676436173727" clover="3.2.0">
+  <project timestamp="1676436173728" name="All files">
+    <metrics statements="36" coveredstatements="36" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8" elements="48" coveredelements="48" complexity="0" loc="36" ncloc="36" packages="1" files="1" classes="1"/>
+    <file name="imageProcessing.ts" path="/Users/a36739/Desktop/2023 Spring/CS 220/HW1/01-image-processing/src/imageProcessing.ts">
+      <metrics statements="36" coveredstatements="36" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="512100" type="stmt"/>
+      <line num="14" count="512100" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="200" type="stmt"/>
+      <line num="30" count="200" type="stmt"/>
+      <line num="31" count="200" type="stmt"/>
+      <line num="32" count="200" type="stmt"/>
+      <line num="33" count="200" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="35" type="cond" truecount="4" falsecount="0"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="52" count="33" type="stmt"/>
+      <line num="53" count="330" type="stmt"/>
+      <line num="55" count="33" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="66" count="3" type="stmt"/>
+      <line num="67" count="3" type="stmt"/>
+      <line num="68" count="30" type="stmt"/>
+      <line num="70" count="3" type="stmt"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="80" count="100" type="stmt"/>
+      <line num="81" count="1" type="stmt"/>
+      <line num="90" count="1" type="stmt"/>
+      <line num="91" count="1" type="stmt"/>
+      <line num="92" count="100" type="stmt"/>
+      <line num="97" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
